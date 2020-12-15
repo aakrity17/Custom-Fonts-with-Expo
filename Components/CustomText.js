@@ -23,7 +23,7 @@ class CustomText extends Component {
         case 'thinItalic':
             return 'Lato-ThinItalic';
         default:
-            return 'Raleway-Regular';
+            return 'Lato-Regular';
     }
   };
 
